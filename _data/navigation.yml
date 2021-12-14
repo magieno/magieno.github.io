@@ -1,0 +1,4 @@
+- name: titles.home
+  link: ./
+- name: titles.about
+  link: about.html

@@ -1,0 +1,9 @@
+global:
+  english: English
+  french: French
+pages:
+  hello_world: Hello world
+
+titles:
+  home: Home
+  about: About
